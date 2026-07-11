@@ -118,11 +118,6 @@ Full execution takes 2–3 minutes due to the 1M+ row dataset.
 - **Cancellation rate:** ~34% — a major area for improvement
 - **Customer retention:** Most customers place only 1 order
 
-## Suggested GitHub topics
-
-`python` `data-analysis` `pandas` `matplotlib` `seaborn`
-`jupyter-notebook` `pakistan` `ecommerce` `data-visualization`
-`data-cleaning` `eda` `internship-project`
 
 ## License
 
